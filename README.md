@@ -112,11 +112,4 @@ This project is a digital implementation of the classic Battleship board game wh
 - Chat functionality between players
 - Custom game options
 
-## License
 
-This project is for educational purposes.
-
-## Credits
-
-- Sound effects: [Update with appropriate credit if needed]
-- Game concept: Based on the classic Battleship board game
